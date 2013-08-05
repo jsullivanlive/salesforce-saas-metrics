@@ -16,4 +16,4 @@ This repo is AGPL, so you have to contribute changes back.
 Related Links
 -------------
 
-https://github.com/jsullivanlive/salesforce-saas-metrics
+http://www.forentrepreneurs.com/saas-metrics-2/
