@@ -17,3 +17,5 @@ Related Links
 -------------
 
 http://www.forentrepreneurs.com/saas-metrics-2/
+
+http://www.betakit.com/super-angel-boris-wertz-says-theres-only-two-ways-to-get-to-a-100-million-valuation/
